@@ -1,3 +1,5 @@
+//Brian Mouyard 12/7/25
+//this makes getters and setters for the paddlle
 import java.awt.*;
 
 public class Paddle {
